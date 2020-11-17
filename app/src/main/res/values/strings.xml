@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi-Note Pad</string>
+    <string name="new_note_string">New Note</string>
+    <string name="info_string">Info</string>
+    <string name="note_title_hint">Enter Note Title</string>
+    <string name="note_text_hint">Enter Note Text</string>
+    <string name="notes_file_name">Notes.json</string>
+    <string name="multi_notes_string">Multi Notes</string>
+    <string name="copyright_string">© 2020, Mayank Phadke</string>
+    <string name="version_string">Version 1.0</string>
+</resources>
