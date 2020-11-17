@@ -1,5 +1,5 @@
 # Multi Note Pad App
-A notepad where users can add notes with a title and some description. The app will display a list of all the notes the user has added sorter by time of creation/updation. The user can delete a note by long pressing.
+A notepad where users can add notes with a title and some description. The app will display a list of all the notes the user has added sorter by time of creation/updation. The user can delete a note by long pressing. Developed in Android Studio.
 
 Created by [Mayank Phadke](https://mayank-phadke.github.io/)
 
